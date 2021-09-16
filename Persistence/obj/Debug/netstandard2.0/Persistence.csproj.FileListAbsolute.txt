@@ -1,0 +1,12 @@
+/Users/coreygibb/Documents/itdev162/corey-gibb/Persistence/bin/Debug/netstandard2.0/Persistence.deps.json
+/Users/coreygibb/Documents/itdev162/corey-gibb/Persistence/bin/Debug/netstandard2.0/Persistence.dll
+/Users/coreygibb/Documents/itdev162/corey-gibb/Persistence/bin/Debug/netstandard2.0/Persistence.pdb
+/Users/coreygibb/Documents/itdev162/corey-gibb/Persistence/bin/Debug/netstandard2.0/Domain.dll
+/Users/coreygibb/Documents/itdev162/corey-gibb/Persistence/bin/Debug/netstandard2.0/Domain.pdb
+/Users/coreygibb/Documents/itdev162/corey-gibb/Persistence/obj/Debug/netstandard2.0/Persistence.csprojAssemblyReference.cache
+/Users/coreygibb/Documents/itdev162/corey-gibb/Persistence/obj/Debug/netstandard2.0/Persistence.csproj.CoreCompileInputs.cache
+/Users/coreygibb/Documents/itdev162/corey-gibb/Persistence/obj/Debug/netstandard2.0/Persistence.AssemblyInfoInputs.cache
+/Users/coreygibb/Documents/itdev162/corey-gibb/Persistence/obj/Debug/netstandard2.0/Persistence.AssemblyInfo.cs
+/Users/coreygibb/Documents/itdev162/corey-gibb/Persistence/obj/Debug/netstandard2.0/Persistence.csproj.CopyComplete
+/Users/coreygibb/Documents/itdev162/corey-gibb/Persistence/obj/Debug/netstandard2.0/Persistence.dll
+/Users/coreygibb/Documents/itdev162/corey-gibb/Persistence/obj/Debug/netstandard2.0/Persistence.pdb
