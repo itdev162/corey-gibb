@@ -1,0 +1,14 @@
+/Users/coreygibb/Documents/itdev162/corey-gibb/Application/bin/Debug/netstandard2.0/Application.deps.json
+/Users/coreygibb/Documents/itdev162/corey-gibb/Application/bin/Debug/netstandard2.0/Application.dll
+/Users/coreygibb/Documents/itdev162/corey-gibb/Application/bin/Debug/netstandard2.0/Application.pdb
+/Users/coreygibb/Documents/itdev162/corey-gibb/Application/bin/Debug/netstandard2.0/Domain.dll
+/Users/coreygibb/Documents/itdev162/corey-gibb/Application/bin/Debug/netstandard2.0/Persistence.dll
+/Users/coreygibb/Documents/itdev162/corey-gibb/Application/bin/Debug/netstandard2.0/Domain.pdb
+/Users/coreygibb/Documents/itdev162/corey-gibb/Application/bin/Debug/netstandard2.0/Persistence.pdb
+/Users/coreygibb/Documents/itdev162/corey-gibb/Application/obj/Debug/netstandard2.0/Application.csprojAssemblyReference.cache
+/Users/coreygibb/Documents/itdev162/corey-gibb/Application/obj/Debug/netstandard2.0/Application.csproj.CoreCompileInputs.cache
+/Users/coreygibb/Documents/itdev162/corey-gibb/Application/obj/Debug/netstandard2.0/Application.AssemblyInfoInputs.cache
+/Users/coreygibb/Documents/itdev162/corey-gibb/Application/obj/Debug/netstandard2.0/Application.AssemblyInfo.cs
+/Users/coreygibb/Documents/itdev162/corey-gibb/Application/obj/Debug/netstandard2.0/Application.csproj.CopyComplete
+/Users/coreygibb/Documents/itdev162/corey-gibb/Application/obj/Debug/netstandard2.0/Application.dll
+/Users/coreygibb/Documents/itdev162/corey-gibb/Application/obj/Debug/netstandard2.0/Application.pdb
