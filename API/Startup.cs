@@ -63,7 +63,7 @@ namespace API
 
             // app.UseHttpsRedirection();
             app.UseCors(CorsPolicy);
-            app.UseMvc();
+            app.UseMvc()    ;
         }
     }
 }
