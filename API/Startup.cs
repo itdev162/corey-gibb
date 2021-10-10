@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Reflection;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
@@ -11,7 +12,9 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
 using Microsoft.EntityFrameworkCore;
+using MediatR;
 using Persistence;
+using Application.Posts;
 
 namespace API
 {
@@ -29,6 +32,7 @@ namespace API
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            services.AddMediatR(typeof(List.Handler).Assembly);
             services.AddCors(opt =>
             {
                 opt.AddPolicy(CorsPolicy, policyBuilder =>
@@ -63,7 +67,7 @@ namespace API
 
             // app.UseHttpsRedirection();
             app.UseCors(CorsPolicy);
-            app.UseMvc();
+            app.UseMvc()    ;
         }
     }
 }
